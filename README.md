@@ -1,0 +1,1 @@
+This is majakulpa’s first git project!
